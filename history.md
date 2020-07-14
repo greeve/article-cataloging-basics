@@ -40,7 +40,7 @@ The collocating function enables patrons to see all the items in the library by 
 
 This also enables seeing related items and all editions of an item.
 
-Syndetic structure of the catalog is made possible by authority control.
+Authority control creates a syndetic structure within the catalog relating records by people, corporate bodies, titles, series, subjects and genres. 
 
 A key event in the history of authority control includes a [series of institutes in 1979 held by the Library and Information Technology Association (LITA) exploring the future of authority control in the library catalog][5].
 
