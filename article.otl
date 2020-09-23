@@ -1,9 +1,10 @@
 ﻿Authority Control Today: Principles, Practices, and Trends
 
-1. Intro
+1. Abstract
+2. Intro
 	1. Mini definition
 	2. Outline paper/thesis
-2. History of AC (Greg--March)
+3. History of AC (Greg--March)
 	1. Development of general cataloging practice
 		1. Panizzi
 		2. Cutter
@@ -17,7 +18,7 @@
 			1. More efficient cataloging
 			2. Improved patron access
 			3. Show screenshot?
-3. Definition (Greg and Becca--March)
+4. Definition (Greg and Becca--March)
 	1. Cataloging activities and processes to describe information resources
 		1. Description
 		2. Subject analysis
@@ -40,7 +41,7 @@
 		4. Other associated attributes
 		5. Sources of information
 	3. Show example records
-4. Importance (Becca--March)
+5. Importance (Becca--March)
 	1. Efficiencies
 		1. Cataloger (creation)
 			1. Automated bibliographic maintenance
@@ -53,7 +54,7 @@
 		1. Example 1
 		2. Example 2
 		3. Example 3
-5. How it’s used
+6. How it’s used
 	1. Library
 		1. Manual
 		2. Batch loading
@@ -66,7 +67,7 @@
 			3. SACO
 	2. Archives
 		1. SNAC
-6. Issues/Trends
+7. Issues/Trends
 	1. Integration with archival authority structures and other data in discovery systems
 	2. Strings to things
 	3. Linked data
@@ -77,8 +78,8 @@
 		4. Other data sources
 	5. Facets
 	6. Ethical authority control practices
-7. Future
-8. Conclusion
+8. Future
+9. Conclusion
 	1. So what?!
 
 

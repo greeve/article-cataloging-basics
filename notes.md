@@ -1,5 +1,13 @@
 # Notes
 
+Knowledge carefully recorded is knowledge available in time of need. 
+
+Authority control is concerned with making sure key metadata for an information resource is recorded consistently. When the metadata is consistent it provides multiple benefits:
+
+- predictable (e.g. if I want to find works by or about Mark Twain I search under Twain, Mark not Clemens, Samuel)
+- differentiate or disambiguate or reconcile between entities and seeming duplicate entities (e.g. Thomas Mann vs. Thomas Mann; James Dean vs. James Dean; Harrison Ford vs. Harrison Ford)
+- collate related and like resources (find all resources by William Shakespeare vs. about William Shakespeare)
+
 ## What is authority control?
 
 In library and information science cataloging refers to the set of activities and processes for creating metadata to describe information resources. These activities include description, subject analysis, classification, and authority control.
@@ -37,3 +45,9 @@ National or collective databases and shared systems
 Consistency; uniqueness; variant forms
 
 ## How do authority control? 
+
+# References
+
+Richard G. Scott, (Conference presentation, 163rd Semi-Annual Conference of The Church of Jesus Christ of Latter-day Saints, Salt Lake City, Utah, October 2-3, 1993). https://archive.org/details/conferencereport1993sa/page/n123/mode/2up
+
+Scott, R. G. (1993, October 2-3). [Conference presentation]. 163rd Semi-Annual Conference of The Church of Jesus Christ of Latter-day Saints, Salt Lake City, Utah. Retrieved from https://archive.org/details/conferencereport1993sa/page/n123/mode/2up
