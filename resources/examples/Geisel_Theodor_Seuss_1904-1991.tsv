@@ -1,0 +1,24 @@
+Field	Indicators	Subfield data
+LDR		01987cz  a2200289n  4500
+'001'		3075176
+'005'		20160927180515.0
+'008'		910822n|\azannabb|\\\\\\\\\\|a\aaa\\\\\\
+'010'	\\	$a n  91084846 
+'035'	\\	$a (DLC)n  91084846
+'040'	\\	$a DLC $b eng $e rda $c DLC $d DLC $d NNMM $d DLC
+'046'	\\	$f 1904-03-02 $g 1991-09-24 $2 edtf
+'053'	\0	$a PJ5054.G3914
+'100'	1\	$a Geisel, Theodor Seuss, $d 1904-1991
+'370'	\\	$a Springfield, Mass. $b La Jolla, San Diego, Calif.
+'374'	\\	$a Authors $a Poets $a Cartoonists $2 lcsh
+'375'	\\	$a male
+'377'	\\	$a eng
+'400'	1\	$a Geisel, Ted, $d 1904-1991
+'500'	1\	$w nnnc $a Seuss, $c Dr.
+'663'	\\	$a Works by this author are entered under the name used in the item. For a listing of other names used by this author, search also under $b Seuss, Dr.
+'667'	\\	$a SUBJECT USAGE: This heading is not valid for use as a subject. Works about this person are entered under Seuss, Dr.
+'670'	\\	$a Contemp. auth., new rev. ser., v. 13 $b (Geisel, Theodor Seuss; b. Mar. 2, 1904; pseuds.: Theo. LeSieg; Dr. Seuss; Rosetta Stone, a joint pseud.)
+'670'	\\	$a Data from ALA Booklist for Who's Dr. Seuss? [FS] 1981 $b (Ted Geisel)
+'670'	\\	$a Washington Post, 09-26-91 $b (Theodor Seuss Geisel, who wrote as Dr. Seuss, d. 09-24-91, La Jolla, Calif.)
+'670'	\\	$a Wikipedia, July 22, 2013 $b (Dr. Seuss; Theodor Seuss Geisel; born March 2, 1904 in Springfield Massachusetts; died September 24, 1991 in La Jolla, California; American writer, poet, and cartoonist most widely known for children's picture books written and illustrated as Dr. Seuss. He had used the pen name Dr. Theophrastus Seuss in college and later used Theo LeSieg, and once Rosetta Stone, as well as Dr. Seuss. Geisel published 46 children's books, often characterized by imaginative characters, rhyme, and frequent use of anapestic meter. His most celebrated books include the bestselling Green Eggs and Ham, The Cat in the Hat, Horton Hears a Who!, and How the Grinch Stole Christmas!)
+'953'	\\	$a ta01 $b cd06

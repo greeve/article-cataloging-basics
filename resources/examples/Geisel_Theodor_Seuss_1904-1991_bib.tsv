@@ -1,0 +1,30 @@
+Field	Indicators	Subfield data
+=LDR		01678cam a2200361 a 4500
+'001'		13244460
+'005'		20141113174635.0
+'008'		030619s2001\\\\nyua\\\\\\\\\\000\0deng\\
+'906'	\\	$a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-gencatlg
+'925'	0\	$a acquire $b 2 shelf copies $x policy default
+'955'	\\	$a uf22 2003-03-22 $a uf22 2003-06-19 2 copies to CIP $i lg14 2003-08-25; $e lg13 2003-09-03 to Dewey $a aa28 2003-09-09
+'010'	\\	$a   2003389541
+'020'	\\	$a 1565847040
+'040'	\\	$a DLC $c DLC $d DLC
+'043'	\\	$a n-us---
+'050'	00	$a D745.2 $b .G45 2001
+'082'	00	$a 940.54/002/07$222
+'100'	1\	$a Geisel, Theodor Seuss, $d 1904-1991.
+'245'	10	$a Dr. Seuss goes to war : $b the World War II editorial cartoons of Theodor Seuss Geisel / $c Richard H. Minear.
+'246'	3\	$a Doctor Seuss goes to war
+'250'	\\	$a Pbk. ed.
+'260'	\\	$a New York : $b New Press ; $a San Diego : $b Published in cooperation with the Dr. Seuss Collection at the University of California, San Diego, $c 2001.
+'300'	\\	$a 272 p. : $b chiefly ill. ; $c 23 x 23 cm.
+'500'	\\	$a Cartoons drawn for the New York daily newspaper PM.
+'650'	\0	$a World War, 1939-1945 $v Caricatures and cartoons.
+'650'	\0	$a World politics $y 1900-1945 $v Caricatures and cartoons.
+'650'	\0	$a American wit and humor, Pictorial.
+'651'	\0	$a United States $x Politics and government $y 1933-1945 $v Caricatures and cartoons.
+'700'	1\	$a Minear, Richard H.
+'730'	0\	$a PM (New York, N.Y. : Daily ed.)
+'856'	42	$3Contributor biographical information $u http://www.loc.gov/catdir/enhancements/fy1317/2003389541-b.html
+'856'	42	$3Publisher description $u http://www.loc.gov/catdir/enhancements/fy1317/2003389541-d.html
+'923'	\\	 $d yymmdd $n * $s *

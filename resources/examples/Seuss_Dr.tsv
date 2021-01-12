@@ -1,0 +1,53 @@
+Field	Indicators	Subfield data
+LDR		03368cz  a2200637n  4500
+'001'		1889294
+'005'		20200218074844.0
+'008'		790628n|\azannaabn\\\\\\\\\\|b\aaa\\\\\\
+'010'	\\	$a n  79053201 
+'035'	\\	$a (Uk)000366859
+'035'	\\	$a (OCoLC)oca00286383
+'040'	\\	$a DLC $b eng $e rda $c DLC $d DLC $d OCoLC $d DLC $d PPGratz $d DLC-R $d OCoLC $d UPB $d Uk $d CSt-HC $d UkOxU $d SdMadT $d NhD $d OCoLC $d DLC $d Uk $d DLC $d ScU $d CU-S
+'046'	\\	$f 1904-03-02 $g 1991-09-24 $2 edtf
+'053'	\0	$a PS3513.E2
+'100'	1\	$a Seuss, $c Dr.
+'370'	\\	$a Springfield (Mass.) $b La Jolla (San Diego, Calif.) $c United States $2 naf
+'372'	\\	$a Children's literature$a Illustration of books$a Motion picture authorship $2 lcsh
+'374'	\\	$a Authors $a Illustrators$a Poets $a Screenwriters $2 lcsh
+'375'	\\	$a Males $2 lcdgt
+'377'	\\	$a eng
+'400'	0\	$a Dokter Seuss
+'400'	0\	$a Doḳṭor Sus
+'400'	0\	$a Dr. Seuss
+'400'	0\	$a Dr. Sus
+'400'	0\	$a Dr. Zois
+'400'	1\	$a Seuss, $c Dokter
+'400'	1\	$a Sus, $c Doḳṭor
+'400'	1\	$a Sus, $c Dr.
+'400'	1\	$a Доктор СЬюз
+'400'	1\	$a סוס, $c דר
+'400'	1\	$a סוס, $c דוקטור
+'400'	1\	$a זויד, $c ד׳ר
+'400'	1\	$a דוקטור סוס
+'400'	1\	$a דוקטור $c סוס
+'400'	1\	$a Seuss, Theophrastus
+'400'	0\	$a Susi bo shi
+'400'	0\	$a 蘇斯博士
+'400'	0\	$a 苏斯博士
+'500'	1\	$w nnnc $a Geisel, Theodor Seuss, $d 1904-1991
+'500'	1\	$w nnnc $a LeSieg, Theo., $d 1904-1991
+'500'	1\	$w nnnc $a Stone, Rosetta, $d 1904-1991
+'663'	\\	$a For works of this author written in collaboration with Michael K. Frith, search also under $b Stone, Rosetta, 1904-1991 $a For works of this author entered under other names, search also under $b Geisel, Theodor Seuss, 1904- , $b LeSieg, Theo., 1904-
+'667'	\\	$a Machine-derived non-Latin script reference project.
+'667'	\\	$a Non-Latin script references not evaluated.
+'670'	\\	$a De ḳats der payats, 2003: $b t.p. (Dr. Sus; Dokter Seuss [in rom.])
+'670'	\\	$a Author's In a people house, 1972.
+'670'	\\	$a Contemp. auth., new rev. ser., v. 13 $b (Geisel, Theodor Seuss; b. Mar. 2, 1904)
+'670'	\\	$a Washington Post, 09-26-91 $b (Theodor Seuss Geisel, who wrote as Dr. Seuss; d. 09-24-91, La Jolla, Calif.)
+'670'	\\	$a ha-Sefer sheli ʻal ʻatsmi, 1984: $b t.p. (Doḳṭor Sus)
+'670'	\\	$a ha-Melekh Tsav-Tsav, 1981?: $b t.p. (Dr. Zois)
+'670'	\\	$a Wikipedia, July 22, 2013 $b (Dr. Seuss; Theodor Seuss Geisel; born March 2, 1904 in Springfield Massachusetts; died September 24, 1991 in La Jolla, California; American writer, poet, and cartoonist most widely known for children's picture books written and illustrated as Dr. Seuss. He had used the pen name Dr. Theophrastus Seuss in college and later used Theo LeSieg, and once Rosetta Stone, as well as Dr. Seuss. Geisel published 46 children's books, often characterized by imaginative characters, rhyme, and frequent use of anapestic meter. His most celebrated books include the bestselling Green Eggs and Ham, The Cat in the Hat, Horton Hears a Who!, and How the Grinch Stole Christmas!)
+'670'	\\	$a The 5,000 fingers of Dr. T, 2001: $b credits (screen play by Dr. Seuss)
+'670'	\\	$a Dai mao zi de mao, 1992: $b title page (蘇斯博士 = Susi bo shi; Dr. Seuss)
+'670'	\\	$a Gui ling jing, 2002: $b title page (苏斯博士 = Susi bo shi; Dr. Seuss)
+'952'	\\	$a RETRO
+'953'	\\	$a xx00 $b bh19

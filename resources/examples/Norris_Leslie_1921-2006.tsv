@@ -1,0 +1,27 @@
+Field	Indicators	Subfield data
+LDR		01239cz  a2200325n  4500
+'001'		2796627
+'005'		20151031073911.0
+'008'		800408n|\azannaabn\\\\\\\\\\|a\aaa\\\\\\
+'010'	\\	$an  50006416 
+'035'	\\	$a(OCoLC)oca00041963
+'040'	\\	$aDLC$beng$erda$cDLC$dDLC$dOCoLC$dDLC$dUPB
+'046'	\\	$f1921-05-21$g2006-04-06$2edtf
+'053'	\0	$aPR6027.O44
+'100'	1\	$aNorris, Leslie,$d1921-2006
+'370'	\\	$aWales$bOrem (Utah)$2naf
+'373'	\\	$aBrigham Young University$2naf
+'374'	\\	$aPoet$2itoamc
+'374'	\\	$aPoets$2lcsh
+'374'	\\	$aTeacher$2itoamc
+'374'	\\	$aCollege teachers$2lcsh
+'375'	\\	$amale
+'377'	\\	$aeng
+'378'	\\	$qGeorge Leslie
+'400'	1\	$aNorris, George Leslie,$d1921-2006
+'510'	2\	$wr$iEmployer:$aBrigham Young University
+'670'	\\	$aHis Selected poems, 1986:$bt.p. (Leslie Norris) p. 4 of cover (b. 1921)
+'670'	\\	$aAuth. & writer's who's who, 1972$b(Norris, Leslie; b. 1921)
+'670'	\\	$aNew York times WWW site, Apr. 12, 2006$b(Leslie Norris; b. George Leslie Norris, May 21, 1921, Wales; d. Thursday [Apr. 6, 2006], Orem, Utah, aged 84; noted poet who most recently was a professor and emeritus poet in residence at Brigham Young University)
+'952'	\\	$aRETRO
+'953'	\\	$axx00$bvl09

@@ -52,17 +52,8 @@
 				<dict>
 					<key>fileNames</key>
 					<array>
-						<string>~/Development/article-cataloging-basics/resources/authority_control_landscape.pdf</string>
+						<string>~/Development/article-cataloging-basics/figures/Walt_Disney_Productions.pdf</string>
 					</array>
-				</dict>
-				<key>ActionRuntimeParameters</key>
-				<dict>
-					<key>fileNames</key>
-					<array>
-						<string>~/Development/article-cataloging-basics/resources/authority_control_landscape.pdf</string>
-					</array>
-					<key>temporary items path</key>
-					<string>/var/folders/tk/2l9k3hy96m54n6ww7n3w4mvw0000gp/T/4E76F592-9774-4E5A-B9AC-2E4933F26900/1/com.apple.Automator.SpecifiedFiles</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.SpecifiedFiles</string>
@@ -153,7 +144,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>600</string>
+							<string>300</string>
 						</array>
 					</dict>
 				</dict>
@@ -175,24 +166,11 @@
 					<key>colorModel</key>
 					<integer>0</integer>
 					<key>compression</key>
-					<real>0.5</real>
+					<real>0.55555555555555558</real>
 					<key>imageFormat</key>
 					<string>public.tiff</string>
 					<key>resolution</key>
-					<string>600</string>
-				</dict>
-				<key>ActionRuntimeParameters</key>
-				<dict>
-					<key>colorModel</key>
-					<integer>0</integer>
-					<key>compression</key>
-					<real>0.5</real>
-					<key>imageFormat</key>
-					<string>public.tiff</string>
-					<key>resolution</key>
-					<string>600</string>
-					<key>temporary items path</key>
-					<string>/var/folders/tk/2l9k3hy96m54n6ww7n3w4mvw0000gp/T/4E76F592-9774-4E5A-B9AC-2E4933F26900/1/com.apple.action.imagepdf</string>
+					<string>300</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.action.imagepdf</string>
@@ -411,19 +389,19 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>1DA6126F-1B56-4C2F-9DAC-82B4E5EE10E5</key>
-		<dict>
-			<key>from</key>
-			<string>289AE778-A3E2-44AD-AD65-99F24DC8ADE1 - 289AE778-A3E2-44AD-AD65-99F24DC8ADE1</string>
-			<key>to</key>
-			<string>512DE982-9C3D-42BD-821B-C10EEDBF056A - 512DE982-9C3D-42BD-821B-C10EEDBF056A</string>
-		</dict>
-		<key>7F7FB787-6704-4C95-A848-0D961FE50B8F</key>
+		<key>50CC00FC-D860-4BF5-B189-6317F2B9408C</key>
 		<dict>
 			<key>from</key>
 			<string>512DE982-9C3D-42BD-821B-C10EEDBF056A - 512DE982-9C3D-42BD-821B-C10EEDBF056A</string>
 			<key>to</key>
 			<string>301331BD-4E34-46D9-9381-18403DEDE809 - 301331BD-4E34-46D9-9381-18403DEDE809</string>
+		</dict>
+		<key>5F58DB5E-6F46-4C3E-8D8D-DFBFCABB568F</key>
+		<dict>
+			<key>from</key>
+			<string>289AE778-A3E2-44AD-AD65-99F24DC8ADE1 - 289AE778-A3E2-44AD-AD65-99F24DC8ADE1</string>
+			<key>to</key>
+			<string>512DE982-9C3D-42BD-821B-C10EEDBF056A - 512DE982-9C3D-42BD-821B-C10EEDBF056A</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>

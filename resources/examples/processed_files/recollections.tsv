@@ -1,0 +1,33 @@
+Field	Indicators	Subfield data
+=LDR		01563cam a2200397 a 4500
+'001'		a3708465
+'003'		SIRSI
+'005'		20070112110021.0
+'008'		070112s2006\\\\utu\\\\\\\\\\\000\p\eng\c
+'035'	\\	$a (OCoLC)ocm77723132
+'035'	\\	$a (OCoLC)ocn368119159
+'040'	\\	$a UBY $c UBY $d UBY
+'042'	\\	$a pcc
+'050'	\4	$a PR6027.O44 $b R43 2006
+'079'	\\	$a ocm77721225
+'079'	\\	$a ocm77723132
+'090'	\\	$a Z232 $b .T781 2006 no.6
+'100'	1\	$a Norris, Leslie, $d 1921-2006.
+'240'	10	$a Poems. $k Selections
+'245'	10	$a Recollections / $c Leslie Norris.
+'250'	\\	$a 1st ed.
+'260'	\\	$a Provo [Utah] : $b Tryst Press, $c 2006.
+'300'	\\	$a 35 p. ; $c 23 cm.
+'336'	\\	$a text $2 rdacontent
+'337'	\\	$a unmediated $2 rdamedia
+'338'	\\	$a volume $2 rdacarrier
+'500'	\\	$a "Produced at Tryst Press in Provo, Utah in October of 2006. The types are from the Adobe Caslon family and the paper is Mohawk Vellum. The entire book was printed letterpress. 400 copies of this first edition were printed."--Colophon.
+'505'	0\	$a Early schooling -- First publication -- War -- Elegising -- Merthyr -- Bath -- "Flashbacks" -- A poet and a Welshman -- The Sussex "band" -- Great lines.
+'596'	\\	$a 1 9
+'655'	\0	$a English poetry $y 21st century.
+'655'	\7	$a Typefaces (Type evidence) $x Caslon (Adobe) $2 rbtyp
+'710'	2\	$a Tryst Press $e printer.
+'710'	2\	$a Mohawk Fine Papers, Inc. $e papermaker.
+'583'	\\	$a cat $b o pcc rare $c 20070112 $k rlm $5 UPB
+'926'	\\	$a LEE $b LEE-LIB $c PR 6027 .O44 R43 2006 $d BOOK $f 1
+'926'	\\	$a SPEC-COLL $b RARE $c Z 232 .T781 2006 no.6 $d PRESSES $f 1
